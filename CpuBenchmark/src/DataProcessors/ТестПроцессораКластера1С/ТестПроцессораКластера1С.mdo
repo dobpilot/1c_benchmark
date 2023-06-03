@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f73050c4-39c6-48d4-a85c-0b9739d0e3f3">
+  <producedTypes>
+    <objectType typeId="ed1ab8d4-0ada-4692-aeac-a1bc13a08d0f" valueTypeId="40a1b1fb-3fe8-492d-ac10-74b60c3e8f00"/>
+    <managerType typeId="3048e91c-3d2c-4631-ae67-fa52b125c75c" valueTypeId="2fc15dde-f2fa-47c0-bfb3-70b0c5fc566d"/>
+  </producedTypes>
+  <name>ТестПроцессораКластера1С</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест процессора кластера 1С</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ТестПроцессораКластера1С.Form.Форма</defaultForm>
+  <attributes uuid="288f1a90-df38-4861-b259-30609428284c">
+    <name>РазмерТаблицыИсходныхДанныхДляРасчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Размер таблицы исходных данных для расчета</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="b044e4dc-e450-4ab4-bcef-d483ca410269">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

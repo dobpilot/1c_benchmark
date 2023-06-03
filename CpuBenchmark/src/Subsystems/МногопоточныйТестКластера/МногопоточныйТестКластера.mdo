@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ed937120-55fd-4804-a7bd-92a751a9881e">
+  <name>МногопоточныйТестКластера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Многопоточный тест кластера</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <subsystems>ТестыБезОбращенияКБД</subsystems>
+</mdclass:Subsystem>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c1819169-d288-4f83-bab9-f3cde0ef7d90">
+  <name>ГенераторТаблицыЗначений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генератор таблицы значений</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="59b50cf6-c544-49ab-9177-ffa6725b8ae1">
+  <name>CpuBenchmark</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="6257dbd8-c22b-4ead-b2b7-0dcdcda0cfca"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ba6c2c5d-14e0-43df-b475-39ef98dc7dee"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="498108fd-9720-44d3-9cf7-204a2b92e703"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="65b267b7-c1c6-4001-bd29-3b726a42c82f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="50643ef5-5cd2-4349-87a4-bcba88891048"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="f5c43992-526a-4bd5-8586-7de361eacb50"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="5dff3bd7-f5ca-4681-b76c-06888e8c1a6b"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
+  <languages uuid="8233527b-1d8c-477c-aff5-4183ee768f06">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.МногопоточныйТестКластера</subsystems>
+  <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
+  <dataProcessors>DataProcessor.ТестПроцессораКластера1С</dataProcessors>
+</mdclass:Configuration>

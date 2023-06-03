@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f357db2e-1d72-47b2-a9c8-e266bb91d879">
+  <name>ТестыБезОбращенияКБД</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты без обращения к БД</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor.ТестПроцессораКластера1С</content>
+  <parentSubsystem>Subsystem.МногопоточныйТестКластера</parentSubsystem>
+</mdclass:Subsystem>
