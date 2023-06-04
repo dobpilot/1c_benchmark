@@ -37,5 +37,6 @@
   </languages>
   <subsystems>Subsystem.МногопоточныйТестКластера</subsystems>
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
+  <commonModules>CommonModule.ФоновыеЗаданияСервер</commonModules>
   <dataProcessors>DataProcessor.ТестПроцессораКластера1С</dataProcessors>
 </mdclass:Configuration>
