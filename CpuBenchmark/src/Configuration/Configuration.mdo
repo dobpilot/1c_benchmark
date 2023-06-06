@@ -12,6 +12,8 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>Alexander Korolev</vendor>
+  <version>2023.2.1</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -22,6 +24,10 @@
     </functionality>
   </usedMobileApplicationFunctionalities>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <copyright>
+    <key>ru</key>
+    <value>Alexander Korolev</value>
+  </copyright>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
@@ -36,7 +42,10 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.МногопоточныйТестКластера</subsystems>
+  <commonPictures>CommonPicture.ДлительнаяОперация48</commonPictures>
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
+  <commonModules>CommonModule.ЗамерВремени</commonModules>
+  <commonModules>CommonModule.ТестПроцессораКластера1С</commonModules>
   <commonModules>CommonModule.ФоновыеЗаданияСервер</commonModules>
   <dataProcessors>DataProcessor.ТестПроцессораКластера1С</dataProcessors>
 </mdclass:Configuration>
