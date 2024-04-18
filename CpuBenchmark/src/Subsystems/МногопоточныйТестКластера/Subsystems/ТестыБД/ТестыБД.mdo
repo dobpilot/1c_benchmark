@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6a19f17c-b85f-4cb5-931d-6c95eed9774a">
+  <name>ТестыБД</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты БД</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Договор</content>
+  <content>Catalog.Контрагент</content>
+  <content>Document.Заказ</content>
+  <parentSubsystem>Subsystem.МногопоточныйТестКластера</parentSubsystem>
+</mdclass:Subsystem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dcce8bcd-2671-4caf-99fc-05ef97a7b18e">
+  <producedTypes>
+    <objectType typeId="fc7ed80f-e375-47dd-83c3-9584d3603362" valueTypeId="a3032f7f-3623-4051-aefc-9c030999306b"/>
+    <refType typeId="9b8ff458-4dc8-437c-814e-2780645fa08f" valueTypeId="c9ae38cb-6b38-49bf-a5ba-55e081107ac3"/>
+    <selectionType typeId="ca4964d1-1eec-466c-86ee-9ed76178b009" valueTypeId="c05e0868-7603-4151-8623-f46790ae6761"/>
+    <listType typeId="92461aad-c89e-4ded-b697-691e42856b02" valueTypeId="c37807ab-22cc-4383-851b-ab1cba6f26ee"/>
+    <managerType typeId="e30fd995-6b1a-4672-a284-57e5ada96a4c" valueTypeId="874bdd3a-e2b9-4ac1-b834-938b41749a5f"/>
+  </producedTypes>
+  <name>Заказ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заказ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Заказ.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="e367fa4b-5265-4e86-a447-7a6e71b7c4ae">
+    <name>Контрагент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрагент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Контрагент</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="e8174a83-57f0-406a-be39-db4c24e92947">
+    <name>Договор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Договор</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Договор</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>

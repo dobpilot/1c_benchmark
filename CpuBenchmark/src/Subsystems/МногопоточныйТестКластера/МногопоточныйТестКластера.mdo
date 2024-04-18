@@ -7,5 +7,6 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <subsystems>ТестыБД</subsystems>
   <subsystems>ТестыБезОбращенияКБД</subsystems>
 </mdclass:Subsystem>

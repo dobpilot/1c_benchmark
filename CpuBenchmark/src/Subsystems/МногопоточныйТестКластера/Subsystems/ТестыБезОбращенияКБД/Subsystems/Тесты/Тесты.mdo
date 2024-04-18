@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fcdc5be5-b07b-4537-8b8b-cd5f4b73218f">
+  <name>Тесты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тесты</value>
+  </synonym>
+  <comment>Содержит только ссылки на обработчики тестирования</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonModule.ТестПроцессораКластера1С</content>
+  <content>CommonModule.ТестСлужбыУправляемыхБлокировокКластера1С</content>
+  <parentSubsystem>Subsystem.МногопоточныйТестКластера.Subsystem.ТестыБезОбращенияКБД</parentSubsystem>
+</mdclass:Subsystem>

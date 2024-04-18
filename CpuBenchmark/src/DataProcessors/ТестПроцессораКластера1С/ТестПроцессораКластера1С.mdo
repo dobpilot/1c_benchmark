@@ -12,10 +12,10 @@
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ТестПроцессораКластера1С.Form.Форма</defaultForm>
   <attributes uuid="288f1a90-df38-4861-b259-30609428284c">
-    <name>РазмерТаблицыИсходныхДанныхДляРасчета</name>
+    <name>РазмерЭталона</name>
     <synonym>
       <key>ru</key>
-      <value>Размер таблицы исходных данных для расчета</value>
+      <value>Размер эталона</value>
     </synonym>
     <type>
       <types>Number</types>

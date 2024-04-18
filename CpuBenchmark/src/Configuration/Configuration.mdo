@@ -46,6 +46,10 @@
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
   <commonModules>CommonModule.ЗамерВремени</commonModules>
   <commonModules>CommonModule.ТестПроцессораКластера1С</commonModules>
+  <commonModules>CommonModule.ТестСлужбыУправляемыхБлокировокКластера1С</commonModules>
   <commonModules>CommonModule.ФоновыеЗаданияСервер</commonModules>
+  <catalogs>Catalog.Договор</catalogs>
+  <catalogs>Catalog.Контрагент</catalogs>
+  <documents>Document.Заказ</documents>
   <dataProcessors>DataProcessor.ТестПроцессораКластера1С</dataProcessors>
 </mdclass:Configuration>
