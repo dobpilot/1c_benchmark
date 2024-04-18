@@ -13,7 +13,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Alexander Korolev</vendor>
-  <version>2023.2.1</version>
+  <version>2024.1.1</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -45,6 +45,7 @@
   <commonPictures>CommonPicture.ДлительнаяОперация48</commonPictures>
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
   <commonModules>CommonModule.ЗамерВремени</commonModules>
+  <commonModules>CommonModule.ТестЗаписиЖурналаРегистрации</commonModules>
   <commonModules>CommonModule.ТестПроцессораКластера1С</commonModules>
   <commonModules>CommonModule.ТестСлужбыУправляемыхБлокировокКластера1С</commonModules>
   <commonModules>CommonModule.ФоновыеЗаданияСервер</commonModules>
