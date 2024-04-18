@@ -46,6 +46,7 @@
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
   <commonModules>CommonModule.ЗамерВремени</commonModules>
   <commonModules>CommonModule.ТестЗаписиЖурналаРегистрации</commonModules>
+  <commonModules>CommonModule.ТестМенеджераВременныхТаблиц</commonModules>
   <commonModules>CommonModule.ТестПроцессораКластера1С</commonModules>
   <commonModules>CommonModule.ТестСлужбыУправляемыхБлокировокКластера1С</commonModules>
   <commonModules>CommonModule.ФоновыеЗаданияСервер</commonModules>

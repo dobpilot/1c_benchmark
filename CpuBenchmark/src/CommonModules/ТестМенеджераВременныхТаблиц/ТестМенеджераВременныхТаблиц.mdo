@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e0022580-ed7a-443e-bae4-d248afdf014a">
+  <name>ТестМенеджераВременныхТаблиц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест менеджера временных таблиц</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
