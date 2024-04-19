@@ -45,6 +45,7 @@
   <commonPictures>CommonPicture.ДлительнаяОперация48</commonPictures>
   <commonModules>CommonModule.ГенераторТаблицыЗначений</commonModules>
   <commonModules>CommonModule.ЗамерВремени</commonModules>
+  <commonModules>CommonModule.ТестЗаписиCSV</commonModules>
   <commonModules>CommonModule.ТестЗаписиЖурналаРегистрации</commonModules>
   <commonModules>CommonModule.ТестМенеджераВременныхТаблиц</commonModules>
   <commonModules>CommonModule.ТестПроцессораКластера1С</commonModules>

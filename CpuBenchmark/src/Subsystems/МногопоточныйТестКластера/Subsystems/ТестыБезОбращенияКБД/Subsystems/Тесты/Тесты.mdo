@@ -12,5 +12,6 @@
   <content>CommonModule.ТестСлужбыУправляемыхБлокировокКластера1С</content>
   <content>CommonModule.ТестЗаписиЖурналаРегистрации</content>
   <content>CommonModule.ТестМенеджераВременныхТаблиц</content>
+  <content>CommonModule.ТестЗаписиCSV</content>
   <parentSubsystem>Subsystem.МногопоточныйТестКластера.Subsystem.ТестыБезОбращенияКБД</parentSubsystem>
 </mdclass:Subsystem>
