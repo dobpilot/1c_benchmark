@@ -2,7 +2,7 @@
 <hpwa:HomePageWorkArea xmlns:hpwa="http://g5.1c.ru/v8/dt/hpwa">
   <columns>
     <items>
-      <form>DataProcessor.ТестПроцессораКластера1С.Form.Форма</form>
+      <form>DataProcessor.ТестКластера1С.Form.Форма</form>
       <height>10</height>
       <visibility>
         <common>true</common>

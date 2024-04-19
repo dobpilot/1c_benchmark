@@ -7,7 +7,7 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>DataProcessor.ТестПроцессораКластера1С</content>
+  <content>DataProcessor.ТестКластера1С</content>
   <subsystems>Тесты</subsystems>
   <parentSubsystem>Subsystem.МногопоточныйТестКластера</parentSubsystem>
 </mdclass:Subsystem>

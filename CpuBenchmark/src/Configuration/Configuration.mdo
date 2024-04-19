@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="59b50cf6-c544-49ab-9177-ffa6725b8ae1">
-  <name>CpuBenchmark</name>
+  <name>OnecBenchmark</name>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="6257dbd8-c22b-4ead-b2b7-0dcdcda0cfca"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ba6c2c5d-14e0-43df-b475-39ef98dc7dee"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="498108fd-9720-44d3-9cf7-204a2b92e703"/>
@@ -53,5 +53,6 @@
   <catalogs>Catalog.Договор</catalogs>
   <catalogs>Catalog.Контрагент</catalogs>
   <documents>Document.Заказ</documents>
-  <dataProcessors>DataProcessor.ТестПроцессораКластера1С</dataProcessors>
+  <dataProcessors>DataProcessor.ТестКластера1С</dataProcessors>
+  <informationRegisters>InformationRegister.РезультатыТестирования</informationRegisters>
 </mdclass:Configuration>
